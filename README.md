@@ -12,6 +12,8 @@ What I kinda know?
  - java (intermediate)
  - bash
  - some sql as needed
+
+
 What I want to know?
  - I don't know
  - BUT I'd like to structure systems one day. Doesn't matter what kind as all of data is beautiful, but nasty
